@@ -85,3 +85,53 @@ section {
     height: 110vw;
     filter: brightness(0.6);
 }
+.rock1 {
+    position: absolute;
+    left: 10vw;
+    top: 20vh;
+}
+.rock1 img {
+    width: 40%;
+    filter: brightness(0.5);
+}
+.earth img {
+    width: 40rem;
+    height: 40rem;
+    position: absolute;
+    z-index: 1;
+    left: 34vw;
+    top: 34vw;
+    filter: brightness(0.7);
+}
+.text h1 {
+    position: absolute;
+    font-size: 5vw;
+    color: var(--Clr-White);
+    top: 35vh;
+    left: 34vw;
+    letter-spacing: 2rem;
+}
+.mid {
+    left: -150px;
+    bottom: -100px;
+    top: unset;
+}
+.mid img {
+ width: 100%;
+ z-index: 2;
+ left: -20px;
+ top: 20vh;
+ filter: brightness(0.8);
+}
+.fore {
+right: -50px;
+bottom: -200px;
+top: 0px;
+left: unset;
+}
+.fore img {
+width: 40rem;
+height: 110vh;
+z-index: 3;
+filter: brightness(0.5);
+}
