@@ -9,6 +9,10 @@
 --clr-Black: #000000;
 
 --font-size-small: 1.2rem; 
+--font-size-medium: 1.5rem;
+--font-size-extra: 1.6rem;  
+--font-size-tall: 1.8rem; 
+--font-size-title: 2.4rem; 
 }
 * {
  margin: 0;
@@ -20,4 +24,10 @@ html {
 }
 body {
     font-family: 'Oswald', sans-serif;
+}
+ul {
+    list-style: none;
+}
+a {
+    text-decoration: none;
 }

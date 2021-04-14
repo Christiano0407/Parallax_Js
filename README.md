@@ -65,7 +65,8 @@ Create Awesome Parallax Image for Website with Javascript.
 
 - Visual (Efectos y otros).
 # License MIT
-[Choosealicense](https://choosealicense.com/)
+- [Choosealicense](https://choosealicense.com/)
+
 MIT License
 
 Copyright (c) [year] [fullname]
