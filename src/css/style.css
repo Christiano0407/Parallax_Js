@@ -22,12 +22,61 @@
 html {
  font-size: 62.5%;
 }
-body {
-    font-family: 'Oswald', sans-serif;
-}
 ul {
     list-style: none;
 }
 a {
     text-decoration: none;
+}
+img {
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+body {
+    font-family: 'Oswald', sans-serif;
+    background-color: var(--clr-Black);
+    overflow-x: hidden;
+}
+.header {
+    height: 8vh;
+    width: 96%;
+}
+.nav {
+    height: 8vh;
+    width: 96%;
+    position: fixed;
+    z-index: 100;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 3rem;
+}
+.logo {
+    color: var(--Clr-White);
+    font-weight: bold;
+    font-size: var(--font-size-title);
+    text-transform: uppercase;
+}
+.nav .nav-links ul {
+    display: flex;
+    flex-direction: row;
+}
+.nav .nav-links ul li {
+    padding: 0 .4rem;
+    list-style: none;
+}
+.nav .nav-links ul li img {
+    transform: scale(0.45);
+    color: white;
+    cursor: pointer;
+}
+.nav .nav-links ul li img:hover {
+  opacity: .5;
+}
+section {
+    height: 100vh;
+    overflow: hidden;
 }
