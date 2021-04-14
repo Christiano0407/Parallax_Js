@@ -3,6 +3,7 @@ Create Awesome Parallax Image for Website with Javascript.
 
 # Inspired
 [Dev Ed](https://www.youtube.com/watch?v=0PaA82YzNOE&t=53s)
+[Design Medium](https://www.youtube.com/watch?v=LMygHD-rnbA&t=2s)
 
 # Font 
 [Adobe Fonts](https://fonts.adobe.com/)
@@ -51,6 +52,10 @@ Create Awesome Parallax Image for Website with Javascript.
 
 # CDN
 [CDNJS](https://cdnjs.com/)
+
+# Parallax
+[Parallaxjs](https://matthew.wagerfield.com/parallax/)
+[Dixonandmoe](https://dixonandmoe.com/rellax/)
 # Icon
 [Fontawesome](https://fontawesome.com/)
 [Icons](https://icons8.com/icons)
