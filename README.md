@@ -61,6 +61,12 @@ Create Awesome Parallax Image for Website with Javascript.
 [Icons](https://icons8.com/icons)
 # GSAP
 [GSAP](https://greensock.com/gsap/)
+
+# Parallaxjs
+[Parallax](https://github.com/wagerfield/parallax)
+
+# SwiperJs
+[SwiperJs](https://swiperjs.com/get-started)
 # Tips and Guides
 - Posicionamiento.
 
