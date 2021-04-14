@@ -1,0 +1,23 @@
+:root {
+--clr-One: #00bbf9;
+--clr-Two: #9b5de5;
+--clr-Three: #80ffdb;
+--clr-complement1: #00f5d4;
+--clr-complement2: #f15bb5;
+--clr-complement3: #fee440;
+--Clr-White: #ffffff;
+--clr-Black: #000000;
+
+--font-size-small: 1.2rem; 
+}
+* {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+html {
+ font-size: 62.5%;
+}
+body {
+    font-family: 'Oswald', sans-serif;
+}

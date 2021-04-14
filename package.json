@@ -1,0 +1,22 @@
+{
+  "name": "parallax",
+  "version": "1.0.0",
+  "description": "project parallax",
+  "main": "stc/js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christiano0407/Parallax_Js.git"
+  },
+  "keywords": [
+    "parallax"
+  ],
+  "author": "Chris04",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Christiano0407/Parallax_Js/issues"
+  },
+  "homepage": "https://github.com/Christiano0407/Parallax_Js#readme"
+}
