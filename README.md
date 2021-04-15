@@ -108,6 +108,60 @@ Create Awesome Parallax Image for Website with Javascript.
 
 ## HammerJs
 [HammerJs](https://hammerjs.github.io/)
+
+##
+[FullPage](https://alvarotrigo.com/fullPage/es/#page2)
+
+## D3JS
+[D3Js](https://d3js.org/)
+
+## EditorJs
+[EditorJs](https://editorjs.io/)
+
+## SailsJs
+[SailsJs](https://sailsjs.com/)
+
+## ChartsJs
+[ChartsJs](https://www.chartjs.org/)
+
+## GulpJs
+[GulpJs](https://gulpjs.com/)
+
+## PaperJs
+[PaperJs](http://paperjs.org/)
+
+## SortableJs
+[SortableJs](https://sortablejs.github.io/Sortable/)
+
+## ScrollJS
+[ScrollJs](https://scrollrevealjs.org/)
+
+## LightGallery
+[LightGallery](https://sachinchoolur.github.io/lightgallery.js/)
+
+## GliderJs
+[GliderJs](https://nickpiscitelli.github.io/Glider.js/)
+
+## SplittingJs
+[SplittingJs](https://splitting.js.org/)
+
+## PixiJs
+[PixiJs](https://www.pixijs.com/)
+
+## GliderJs
+[GliderJs](https://glidejs.com/)
+
+## PureJs
+[PureJs](https://pure-js.com/)
+
+## MultipleJs
+[MultipleJs](https://multiple.js.org/)
+
+##
+[](https://matthew.wagerfield.com/parallax/)
+
+##
+[](https://babeljs.io/)
 # Tips and Guides
 - Posicionamiento.
 
