@@ -62,11 +62,52 @@ Create Awesome Parallax Image for Website with Javascript.
 # GSAP
 [GSAP](https://greensock.com/gsap/)
 
-# Parallaxjs
+# Javascript Tools
+## Parallaxjs
 [Parallax](https://github.com/wagerfield/parallax)
 
-# SwiperJs
+## SwiperJs
 [SwiperJs](https://swiperjs.com/get-started)
+
+## BarbaJs
+[BarbaJs](https://barba.js.org/)
+## PopJs
+[PopJs](https://boscoh.github.io/popjs/#/)
+
+## MomentJs
+[MomentJs](https://momentjs.com/)
+
+## VideoJs
+[VideoJs](https://videojs.com/)
+
+## Cypress
+[Cypress](https://www.cypress.io/)
+## MochaJs
+[MochaJs](https://mochajs.org/)
+
+## ThreeJs
+[ThreeJs](https://threejs.org/)
+
+## Particles
+[Particles](https://vincentgarreau.com/particles.js/)
+
+## JestJs
+[JestJs](https://jestjs.io/)
+
+## AnimeJs
+[AnimeJs](https://animejs.com/)
+
+## TypeScript
+[TypeScript](https://www.typescriptlang.org/)
+
+## Backbone
+[BackBoneJs](https://backbonejs.org/)
+
+## UnderScoreJs
+[UnderScoreJs](https://underscorejs.org/)
+
+## HammerJs
+[HammerJs](https://hammerjs.github.io/)
 # Tips and Guides
 - Posicionamiento.
 
