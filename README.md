@@ -157,11 +157,16 @@ Create Awesome Parallax Image for Website with Javascript.
 ## MultipleJs
 [MultipleJs](https://multiple.js.org/)
 
-##
-[](https://matthew.wagerfield.com/parallax/)
+## Parallax
+[Parallax](https://matthew.wagerfield.com/parallax/)
 
-##
-[](https://babeljs.io/)
+## BabelJs
+[BabelJs](https://babeljs.io/)
+
+# CSS ANIMATION
+## Animate CSS
+[Animate](https://animate.style/)
+
 # Tips and Guides
 - Posicionamiento.
 
