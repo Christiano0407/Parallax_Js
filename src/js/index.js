@@ -50,5 +50,10 @@ slider.on("slideChange", function() {
       rotation: 20
     });
   });
-
+slider.on("slideChangeTransitionEnd", function() {
+  gsap.to(".swiper-slide .slide-img", 1, {
+    rotation: 10
+  }); 
+  
+})
 
