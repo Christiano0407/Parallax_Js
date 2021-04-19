@@ -56,6 +56,7 @@ Create Awesome Parallax Image for Website with Javascript.
 # Parallax
 [Parallaxjs](https://matthew.wagerfield.com/parallax/)
 [Dixonandmoe](https://dixonandmoe.com/rellax/)
+[ScrollMagic](https://scrollmagic.io/)
 # Icon
 [Fontawesome](https://fontawesome.com/)
 [Icons](https://icons8.com/icons)
