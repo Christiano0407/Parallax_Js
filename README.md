@@ -168,6 +168,12 @@ Create Awesome Parallax Image for Website with Javascript.
 ## Animate CSS
 [Animate](https://animate.style/)
 
+# Extra Project 
+## Glassmorphism (Inspired)
+[Platzi](https://platzi.com/blog/css-grid-glassmorphism/)
+[Estefany Aguilar](https://twitter.com/teffcode?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+
+[ColorSpace](https://mycolor.space/gradient3)
 # Tips and Guides
 - Posicionamiento.
 

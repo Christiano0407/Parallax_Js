@@ -1,0 +1,40 @@
+:root {
+    --clr-One: #00bbf9;
+    --clr-Two: #9b5de5;
+    --clr-Three: #80ffdb;
+    --clr-complement1: #00f5d4;
+    --clr-complement2: #f15bb5;
+    --clr-complement3: #fee440;
+    --Clr-White: #ffffff;
+    --clr-Black: #000000;
+    
+    --font-size-small: 1.2rem; 
+    --font-size-medium: 1.5rem;
+    --font-size-extra: 1.6rem;  
+    --font-size-tall: 1.8rem; 
+    --font-size-title: 2.4rem; 
+    }
+    * {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+    }
+    html {
+     font-size: 62.5%;
+    }
+    ul {
+        list-style: none;
+    }
+    a {
+        text-decoration: none;
+    }
+    img {
+        object-fit: cover;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    
+    body {
+        font-family: 'Oswald', sans-serif;
+    }
